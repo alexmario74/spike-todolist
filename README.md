@@ -1,4 +1,4 @@
-##JUGTAAS: Spike Dockerize Java
+# JUGTAAS: Spike Dockerize Java
 
 Per Dockerize Java, quello che mi propongo di fare è creare uno stack minimale come segue:
 
